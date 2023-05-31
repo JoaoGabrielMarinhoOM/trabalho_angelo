@@ -18,25 +18,24 @@ body{
 #container-main {
     width: 200%;
     height: 200vh;
-    background: linear-gradient(245.59deg, #a11515 0%, #b30909 28.53%, #e12043 75.52%);
+    background-image: url(fundo-valorant2.jpg);
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
     background-size: cover;
     background-attachment: fixed;
-    margin-top: 80px;
     max-width: 100%;
     min-height: 100%;
     color: white;
     }
 
 #container-main h1{
-  color: black;
+  color: white;
 }
 
 #container-main h2{
-  color: black;
+  color: white;
 }
     
     header{
